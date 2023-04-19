@@ -1,5 +1,4 @@
 # Hi there👋
-__😀 About me__
 
  My name is __Manami__, a frontend developer based in Vancouver, Canada🇨🇦 
  
